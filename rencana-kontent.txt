@@ -3,5 +3,6 @@ rencana konten
 *membuat header
 *membuat model maklah
 *mengubah style tulisan
+*membuat paper
 2.interview 
 3.vlog
