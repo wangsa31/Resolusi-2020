@@ -4,5 +4,5 @@ rencana konten
 *membuat model maklah
 *mengubah style tulisan
 *membuat paper
-2.interview 
 3.vlog
+*cara memegang kamera hape
